@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sanha%20Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Sanha%20Github!&fontSize=90" />
   <h1>Hi there 👋</h1>
   <h3>📚 Tec Stack 📚</h3>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
